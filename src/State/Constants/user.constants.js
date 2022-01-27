@@ -1,0 +1,2 @@
+export const GET_USER_DATA = 'GET_USER_DATA';
+export const GET_ALL_USERS_DATA = 'GET_ALL_USERS_DATA';

@@ -1,0 +1,14 @@
+[
+    {
+        "title" : "Welcome to Arokee" ,
+        "body" : "Arokee is an App made in React Native, this is just for the coding test",
+    },
+    {
+        "title" : "Developed by" ,
+        "body" : "Sukumar Abhijeet",
+    },
+    {
+        "title" : "What is it all about" ,
+        "body" : "A combination of drawer and tab Navigators",
+    }
+]
